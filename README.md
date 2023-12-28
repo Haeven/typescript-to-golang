@@ -1,2 +1,2 @@
 # typescript-to-golang
-Typescript to Golan interpretor/transpiler
+Typescript to Golang interpretor/transpiler
